@@ -83,24 +83,24 @@ params:
     showcase:
       - image: pic01.jpg
         subtitle: My first step towards R
-        title: Pre_programme_assignment
+        title: Pre programme assignment
         url: projects/pre_programme_assignment
       - image: pic02.jpg
         subtitle: Look at how cool it is!
         title: A beautiful plot
         url: projects/plot
-      #- image: pic03.jpg
-        #subtitle: A group work...
-        #title: Homework 1
-        #url: projects/homework1
-      #- image: pic04.jpg
-        #subtitle: Another group work...
-        #title: Homework 2
-        #url: projects/homework2
-      #- image: pic05.jpg
-        #subtitle: More group work...
-        #title: Homework 3
-        #url: projects/homework3
+      - image: pic03.jpg
+        subtitle: A group work...
+        title: Homework 1
+        url: projects/homework1
+      - image: pic04.jpg
+        subtitle: Another group work...
+        title: Homework 2
+        url: projects/homework2
+      - image: pic05.jpg
+        subtitle: More group work...
+        title: Homework 3
+        url: projects/homework3
       #- image: pic06.jpg
         #subtitle: The last group work...
         #title: Group Project
