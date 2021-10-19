@@ -84,15 +84,15 @@ params:
       - image: pic01.jpg
         subtitle: My first step towards R
         title: Pre_programme_assignment
-        href: pre_programme_assignment.html
+        url: projects/pre_programme_assignment
       - image: pic02.jpg
         subtitle: Look at how cool it is!
         title: A beautiful plot
-        href: Plot.html
-      #- image: pic03.jpg
-        #subtitle: A group work...
-        #title: Homework 2
-        #href: homework2.html
+        url: projects/plot
+      - image: pic03.jpg
+        subtitle: A group work...
+        title: projects/homework2
+        url: projects
       #- image: pic04.jpg
         #subtitle: Nisl Sed Aliquam
         #title: Ipsum
@@ -116,4 +116,6 @@ params:
       amet pharetra et feugiat tempus."
     title: Massa libero
     url: blogs
+  
+  
   
