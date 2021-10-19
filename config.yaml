@@ -108,7 +108,7 @@ params:
   two:
     buttonText: Get Started
     enable: yes
-    subtitle: "Interesting projects I had worked on"
+    subtitle: "More about my life..."
     title: My blogs
     url: blogs
   
