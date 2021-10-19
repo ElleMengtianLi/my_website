@@ -89,10 +89,10 @@ params:
         subtitle: Look at how cool it is!
         title: A beautiful plot
         href: Plot.html
-      - image: pic03.jpg
-        subtitle: A group work...
-        title: Homework 2
-        href: homework2.html
+      #- image: pic03.jpg
+        #subtitle: A group work...
+        #title: Homework 2
+        #href: homework2.html
       #- image: pic04.jpg
         #subtitle: Nisl Sed Aliquam
         #title: Ipsum
