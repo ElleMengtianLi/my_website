@@ -91,20 +91,20 @@ params:
         url: projects/plot
       - image: pic03.jpg
         subtitle: A group work...
-        title: projects/homework2
-        url: projects
-      #- image: pic04.jpg
-        #subtitle: Nisl Sed Aliquam
-        #title: Ipsum
-        #url: blogs/ipsum
-      #- image: pic05.jpg
-        #subtitle: Ipsum Dolor Sit Amet
-        #title: Consequat
-        #url: blogs/ipsum
+        title: Homework 1
+        url: projects/homework1
+      - image: pic04.jpg
+        subtitle: Another group work...
+        title: Homework 2
+        url: projects/homework2
+      - image: pic05.jpg
+        subtitle: More group work...
+        title: Homework 3
+        url: projects/homework3
       #- image: pic06.jpg
-        #subtitle: Feugiat Amet Tempus
-        #title: Etiam
-        #href: blogs/ipsum
+        #subtitle: The last group work...
+        #title: Group Project
+        #url: projects/
   two:
     buttonText: Get Started
     enable: yes
