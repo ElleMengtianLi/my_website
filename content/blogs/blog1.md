@@ -7,8 +7,9 @@ description: ""
 draft: false
 image: pic10.jpg
 keywords: ""
-slug: homework 1
+slug: homework1
 title: Homework 1
+url: blogs/homework1
 ---
 
 A group project...

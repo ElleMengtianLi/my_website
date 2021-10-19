@@ -9,4 +9,5 @@ image: pic08.jpg
 keywords: ""
 slug: homework3
 title: Homework 3
+url: blogs/homework3
 ---
