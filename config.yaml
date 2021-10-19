@@ -82,21 +82,21 @@ params:
     enable: yes
     showcase:
       - image: pic01.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Aliquam
-        url: blogs/aliquam
+        subtitle: My first step towards R
+        title: Pre_programme_assignment
+        href: pre_programme_assignment.html
       - image: pic02.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Tempus
-        url: blogs/tempus
+        subtitle: Look at how cool it is!
+        title: A beautiful plot
+        href: Plot.html
       - image: pic03.jpg
-        subtitle: Lorem Etiam Nullam
-        title: Magna
-        url: blogs/magna
+        subtitle: A group work...
+        title: Homework 2
+        href: homework2.html
       - image: pic04.jpg
         subtitle: Nisl Sed Aliquam
         title: Ipsum
-        url: blogs/ipsum
+        href: blogs/ipsum
       - image: pic05.jpg
         subtitle: Ipsum Dolor Sit Amet
         title: Consequat
@@ -104,7 +104,7 @@ params:
       - image: pic06.jpg
         subtitle: Feugiat Amet Tempus
         title: Etiam
-        url: blogs/ipsum
+        href: blogs/ipsum
   two:
     buttonText: Get Started
     enable: yes
